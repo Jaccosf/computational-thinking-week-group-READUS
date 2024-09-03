@@ -1,3 +1,5 @@
+import math
+
 def solution_station_6(x):
-    y=(-x**2)+1
-    return y
+    output = math.sin(x)
+    return output
