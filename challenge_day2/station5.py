@@ -150,6 +150,6 @@ df['Learning Team'] = df['Learning Team'].str.split(' ').str[-1]
 
 def solution_station_5(name):
     if name in df['Name'].values:
-        return df[df['Name'] == name]['Learning Team'].values[0]
+        return int(df[df['Name'] == name]['Learning Team'].values[0])
     else:
         return False
