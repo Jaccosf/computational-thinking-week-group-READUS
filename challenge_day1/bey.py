@@ -1,1 +1,2 @@
 def bey()
+  return "Bey"
