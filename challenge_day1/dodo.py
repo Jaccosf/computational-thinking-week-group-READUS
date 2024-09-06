@@ -1,3 +1,7 @@
+from jacco import char_1
+from bey import char_2
+from merijn import char_3
+
 def function():
     return "Dodo"
 
