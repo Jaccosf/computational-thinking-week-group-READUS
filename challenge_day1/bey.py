@@ -9,7 +9,7 @@ def char_2():
     return "{char_2}"
 
 def act1p3():
-    return f"{char_1}, on te other hand, was loud about his innocence. He kept telling everyone he had an alibi, and his brother even showed up to confirm it. But {char_3} wasn’t buying it — he thought {char_1} was trying too hard to shift suspicion. {char_4}, noticing {char_1}’s intensity, wondered if it was just a cover for something darker."
+    return f"{char_1}, on the other hand, was loud about his innocence. He kept telling everyone he had an alibi, and his brother even showed up to confirm it. But {char_3} wasn’t buying it — he thought {char_1} was trying too hard to shift suspicion. {char_4}, noticing {char_1}’s intensity, wondered if it was just a cover for something darker."
 
 def act2p3():
     return f"{char_4} finally spoke up, saying maybe they were both innocent and someone else had killed {char_2}. {char_1} scoffed, asking {char_4} why he was suddenly so eager to defend {char_3}. {char_4} just shrugged, playing it cool. But {char_1} wasn’t letting go — he said {char_3} or {char_4} had to be the killer because he had an airtight alibi."
