@@ -2,7 +2,7 @@ def merijn():
     return "Merijn"
 
 def char_3():
-    return "{char_3}"
+    return "Marco"
 
 def merijn_act_1():
     return f"{char_3} couldn’t step thinking about {char_2}’s death. He replayed every conversation he’d had with {char_2} and tried to figure out who might want him dead. {char_1} insisted {char_3} was hiding something, but {char_4} pointed out that {char_1} was quick to blame someone else. Meanwhile, {char_4} was keeping a low profile, acting as if he wanted nothing to do with the drama."
