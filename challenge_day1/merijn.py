@@ -1,3 +1,7 @@
+from dodo import char_4
+from bey import char_2
+from jacco import char_1
+
 def merijn():
     return "Merijn"
 
