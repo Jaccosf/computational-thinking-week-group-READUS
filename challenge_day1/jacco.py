@@ -6,7 +6,7 @@ def myName():
     return "Jacco"
 
 def char_1():
-    return "{char_1}"
+    return "Finn"
 
 def paragraph1():
     return f"{char_2} was found dead on a cold, rainy night. {char_3} swore he was at the movies when {char_2} was killed, and he had the ticket stubs to prove it. {char_1} said he was home, streaming a show, and his brother vouched for him. But {char_4}’s alibi was a bit shaky — he claimed to be at the gym, though no one remembered seeing him there. Each of them seemed sure of their story, but {char_2} was still dead, and someone had to be lying."
