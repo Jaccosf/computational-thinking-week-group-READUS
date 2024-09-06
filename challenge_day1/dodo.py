@@ -17,4 +17,4 @@ def paragraph_2():
 "
 
 def paragraph_3():
-    return f"With {char_4}'s confetion, {char_3} and {char_1} realized the truth. {char_4} had lied, but he wasn’t the killer. {char_2} never met {char_4} because {char_2} had already been dead. {char_3}, relieved but wary, glanced at {char_1} — was it {char_1} all along, or was there someone else they hadn’t considered? {char_1} just smiled, his alibi still holding strong, as the mystery deepened."
+    return f"With {char_4}'s confession, {char_3} and {char_1} realized the truth. {char_4} had lied, but he wasn’t the killer. {char_2} never met {char_4} because {char_2} had already been dead. {char_3}, relieved but wary, glanced at {char_1} — was it {char_1} all along, or was there someone else they hadn’t considered? {char_1} just smiled, his alibi still holding strong, as the mystery deepened."
