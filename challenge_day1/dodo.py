@@ -13,7 +13,7 @@ def paragraph_1():
 "
 
 def paragraph_2():
-    return f"{char_3}, feeling the pleasure, started to crack. He admitted he had doubts about {char_4}’s gym story. {char_1} jumped on this, asking {char_4} if anyone could verify his whereabouts. {char_4}, realizing his fake alibi might be exposed, got defensive. He said it was just bad luck that no one saw him at the gym — but {char_3} and {char_1} weren’t buying it.
+    return f"{char_3}, feeling the pressure sure, started to crack. He admitted he had doubts about {char_4}’s gym story. {char_1} jumped on this, asking {char_4} if anyone could verify his whereabouts. {char_4}, realizing his fake alibi might be exposed, got defensive. He said it was just bad luck that no one saw him at the gym — but {char_3} and {char_1} weren’t buying it.
 "
 
 def paragraph_3():
